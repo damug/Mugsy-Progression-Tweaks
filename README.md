@@ -1,4 +1,4 @@
-# Mugsy-Progression-Tweaks
+### Mugsy-Progression-Tweaks
 Mugsy's Tweaks to Ferny's Progression Modpack
 
 Look @ how NQOL & Grouped Buildings + Even More Grouped Buildings group things... and iterate on that.. where Ferny hasn't.... look at menu steup from Grouped Buildings, it's good
@@ -10,46 +10,45 @@ use replacelib when combining things?
 
 Rename extinguisher drone to firefoam drone
 
-Core:
+## Core:
 Change basic wall/door research from Medieval Furniture to Construction
 
-Anomaly:
+## Anomaly:
 Change basic wall/door research from Medieval Furniture to Construction
 
-Medieval Overhaul
+## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture
 
-Odyssey
+## Odyssey
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture
 Move Fortified Wall from Medieval Furniture to Medieval Architecture
 
-Rebuild Doors + Corners
+## Rebuild Doors + Corners
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture
 Remove gravship glasshull+(dia gravship glasshull) ""
 remove Gravship panorama hull+(dia gravship panorama hull) ""
 
-RimEffect: Renegade Core
+## RimEffect: Renegade Core
 remove prefab wall + dia.prefab wall from Medieval furniture
 
 
 
-
+## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds
 
-Mods to add when starting a new save:
 
 
-<============ Mod Files Deleted ============> 
+## <============ Mod Files Deleted ============> 
 Ancient Urban Ruins \1.6\SpecialThingFilterDef
 MUS SpaceBase Furniture \Assemblies\
 
-<============ Cherry Picker (disabled) ============> 
+## <============ Cherry Picker (disabled) ============> 
 Glass+Lights Moltovs
 VWE crossbow
 VWE gunpowder
 VAEA Quiver
 
-<============ Recipes/Weapons/Apparels ============> 
+## <============ Recipes/Weapons/Apparels ============> 
 VWE make molotov cocktails added 2 ReBuild Glass
 VFEC make bronze moved recipe from smithy to furnance and smelters
 DO make divine order equipment added divine order techs for all
@@ -73,11 +72,11 @@ Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating El
 MO crossbow renamed to light crossbow
 
 
-<============ Recipes ============> 
+## <============ Recipes ============> 
  
 
 
-<============ Research ============> 
+## <============ Research ============> 
 VFET Furniture renamed Early Furniture
 MO Crossboow requires Archery
 Condensed VWE Gunpowder into MO Gunpowder
