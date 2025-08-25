@@ -19,6 +19,11 @@ Change basic wall/door research from Medieval Furniture to Construction
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture
 
+## Medieval Overhaul: Adaptive Storage
+Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material
+
+Move Gate (1x2) from Medieval Furniture to Medieval Architecture
+
 ## Odyssey
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
 Move Fortified Wall from Medieval Furniture to Medieval Architecture
