@@ -8,8 +8,6 @@ Condense Alpha Genes Night Owl, Big & Small - Genes & More Night Owl, and VRE-Ly
 
 use replacelib when combining things?
 
-Rename extinguisher drone to firefoam drone
-
 ## Core:
 Change basic wall/door research from Medieval Furniture to Construction
 
@@ -41,7 +39,8 @@ remove prefab wall + dia.prefab wall from Medieval furniture
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds
 
-
+## Extinguisher Drone:
+Rename extinguisher drone to firefoam drone
 
 ## <============ Mod Files Deleted ============> 
 Ancient Urban Ruins \1.6\SpecialThingFilterDef<br/>
