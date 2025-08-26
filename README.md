@@ -5,7 +5,7 @@ Look @ how NQOL & Grouped Buildings + Even More Grouped Buildings group things..
 
 Condense Alpha Genes Night Owl, Big & Small - Genes & More Night Owl, and VRE-Lycanthrope Nocturnal into VRE-L Nocturnal, renamed Night Owel
 
-[https://preview.redd.it/vp64dv5737w71.jpg](https://preview.redd.it/vp64dv5737w71.jpg?width=1280&format=pjpg&auto=webp&s=c4c2527e5dd78821c51368f7ab47120e231d03ac)
+[[https://preview.redd.it/vp64dv5737w71.jpg](https://preview.redd.it/vp64dv5737w71.jpg?width=1280&format=pjpg&auto=webp&s=c4c2527e5dd78821c51368f7ab47120e231d03ac)](https://www.reddit.com/r/RimWorld/comments/qhnges/weapon_research_projects_for_vanilla_weapons/)
 early VE breakdown of techs
 
 use replacelib when combining things?
