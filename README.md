@@ -12,6 +12,7 @@ use replacelib when combining things?
 
 ## Core:
 Change basic wall/door research from Medieval Furniture to Construction
+Remove neolithic tags from cowboy hat
 
 ## Anomaly:
 Change basic wall/door research from Medieval Furniture to Construction
