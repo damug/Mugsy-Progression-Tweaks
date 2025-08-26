@@ -34,7 +34,8 @@ remove Gravship panorama hull+(dia gravship panorama hull) ""
 ## RimEffect: Renegade Core
 remove prefab wall + dia.prefab wall from Medieval furniture
 
-
+## VFE - Settlers
+move Circular table from ??? to Modern Furniture
 
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds
