@@ -16,6 +16,7 @@ Change basic wall/door research from Medieval Furniture to Construction
 
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture
+Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)
 
 ## Medieval Overhaul: Adaptive Storage
 Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material
@@ -35,7 +36,7 @@ remove Gravship panorama hull+(dia gravship panorama hull) ""
 remove prefab wall + dia.prefab wall from Medieval furniture
 
 ## VFE - Settlers
-move Circular table from ??? to Modern Furniture
+move Circular table from Early Furniture to Complex Furniture
 
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds
