@@ -5,6 +5,8 @@ Look @ how NQOL & Grouped Buildings + Even More Grouped Buildings group things..
 
 Condense Alpha Genes Night Owl, Big & Small - Genes & More Night Owl, and VRE-Lycanthrope Nocturnal into VRE-L Nocturnal, renamed Night Owel
 
+https://preview.redd.it/vp64dv5737w71.jpg
+early VE breakdown of techs
 
 use replacelib when combining things?
 
@@ -43,6 +45,23 @@ Move B&S furniture to bedroom, create dropdowns for underlying beds, disable pri
 
 ## Extinguisher Drone:
 Rename extinguisher drone to firefoam drone
+
+## River's Tribal Shoes
+Move Sandals, Moccasins & Mukluks to Middle_A layer (from some other mod)
+
+## River's Tribal Mittens
+Move Mittens to Middle_A layer (from some other mod)
+Rename Mittens Paukluuks
+
+## Chocolate Redeux
+Add prereq food preparation (RR:SS) to mill roasted cacao
+
+## Cinders of the Embergarden
+Add prereq... (late industrial guns?) to Multiple Warheads research
+
+## Divine Order
+Add prerequiste to Divine Order Equipment... 
+Double check pre-reqs for Divine order... breastplate, plate armor, helmet, cowled helmet, light helmet, pistol
 
 ## <============ Mod Files Deleted ============> 
 Ancient Urban Ruins \1.6\SpecialThingFilterDef<br/>
