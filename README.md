@@ -69,8 +69,10 @@ Add prereq food preparation (RR:SS) to mill roasted cacao
 Add prereq... (late industrial guns?) to Multiple Warheads research
 
 ## Divine Order
-Add prerequiste to Divine Order Equipment... 
+Add prerequisite to Divine Order Equipment... 
+Add prerequisite to Sacred Tablet Pedastal
 Double check pre-reqs for Divine order... breastplate, plate armor, helmet, cowled helmet, light helmet, pistol
+
 
 ## Vanilla Anomally Expanded - Insanity
 Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only specific factions?
