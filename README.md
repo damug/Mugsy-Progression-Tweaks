@@ -14,6 +14,9 @@ use replacelib when combining things?
 Change basic wall/door research from Medieval Furniture to Construction
 Remove neolithic tags from cowboy hat
 
+## Royalty
+Create dropdown for Small Nature Shrine & Large Nature Shrine
+
 ## Anomaly:
 Change basic wall/door research from Medieval Furniture to Construction
 
@@ -34,6 +37,8 @@ Move Fortified Wall from Medieval Furniture to Medieval Architecture
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
 Remove gravship glasshull+(dia gravship glasshull) ""<br/>
 remove Gravship panorama hull+(dia gravship panorama hull) ""
+Change tech for fireplace & wallmounted fireplace to something medieval
+
 
 ## RimEffect: Renegade Core
 remove prefab wall + dia.prefab wall from Medieval furniture
@@ -43,6 +48,9 @@ move Circular table from Early Furniture to Complex Furniture
 
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds
+
+## Dryads & Gauranlen Trees Reworked
+Create dropdown for Gaurenlen Shrine & Large Gauranlen Shrine
 
 ## Extinguisher Drone:
 Rename extinguisher drone to firefoam drone
