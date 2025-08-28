@@ -20,6 +20,10 @@ Create dropdown for Small Nature Shrine & Large Nature Shrine
 ## Anomaly:
 Change basic wall/door research from Medieval Furniture to Construction
 
+## Odyssey
+Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
+Move Fortified Wall from Medieval Furniture to Medieval Architecture
+
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture
 Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)
@@ -29,9 +33,7 @@ Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material
 
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture
 
-## Odyssey
-Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
-Move Fortified Wall from Medieval Furniture to Medieval Architecture
+
 
 ## Rebuild Doors + Corners
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
@@ -83,6 +85,9 @@ Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I gu
 
 ## Victorian Era Apparels!
 Remove neolithic tags from hussar jacket (and make match plate armor I guess)
+
+## Rimworld: Spartan Foundry (Continued)
+Remove hand/foot coverage from armors (when paired with Cat's Boots and Gloves)
 
 ## <============ Mod Files Deleted ============> 
 Ancient Urban Ruins \1.6\SpecialThingFilterDef<br/>
