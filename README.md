@@ -39,7 +39,7 @@ Move Gate (1x2) from Medieval Furniture to Medieval Architecture
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
 Remove gravship glasshull+(dia gravship glasshull) ""<br/>
 remove Gravship panorama hull+(dia gravship panorama hull) ""
-Change tech for fireplace & wallmounted fireplace to something medieval
+Change tech for fireplace & wallmounted fireplace to medieval architecture (VFE:M2)
 
 
 ## RimEffect: Renegade Core
