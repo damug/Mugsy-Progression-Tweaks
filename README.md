@@ -12,17 +12,28 @@ use replacelib when combining things?
 
 ## Core:
 Change basic wall/door research from Medieval Furniture to Construction <br/>
-Remove neolithic tags from cowboy hat
+Vanilla Hood moved to Overhead layer<br/>
 
 ## Royalty
 Create dropdown for Small Nature Shrine & Large Nature Shrine
 
-## Anomaly:
+## Ideology
+
+## Anomaly
 Change basic wall/door research from Medieval Furniture to Construction
 
 ## Odyssey
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
 Move Fortified Wall from Medieval Furniture to Medieval Architecture
+
+## Advance Incubator
+Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating Elements<br/>
+
+## Appliances Expanded
+Chemfuel turbine/brazier/heater/smelter/smithy/large smithy/crematorium/stove/large stove/floodlight/pot/sun lamp/wall light/standing lamp/darklight sun lamp/deep fryer added Biofuel Refining as additional prereq<br/>
+
+## Animal Hoods
+Animal Hoods Wolf/Deer/Scimitar Cat/Spelopede/Megascarab/Megaspider Hood moved to MO Hood layer<br/>
 
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds <br/>
@@ -59,10 +70,16 @@ Large/Huge Gene Bank prereq moved to VGE basic genetic sampling (to match normal
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
 Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)
+Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts (name dupe w/ VFE:C) <br/>
+MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)
 
 ## Medieval Overhaul: Adaptive Storage
 Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material <br/>
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture
+MO boots/gloves renamed to leather boots/gloves (to eliminate name dupe w/ VAE)<br/>
+
+## Medieval Overhaul: House Sanguine
+Sanguine kite shield added smithy prereq<br/>
 
 ## Oracle's Miscellania
 Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I guess)
@@ -110,9 +127,13 @@ make molotov cocktails require 2 ReBuild Glass<br/>
 VWE make crossbow prereq moved to MO crossbow<br/>
 VWE make arbalest prereq moved to MO arbalest<br/>
 VWE Arbalest renamed Heavy Crossbow<br/>
+VWE flntlock prereq moved to Kits blackpowder<br/>
+VWE make musket prereq moved to MO gunpowder<br/>
+
 
 ## Victorian Era Apparels!
 Remove neolithic tags from hussar jacket (and make match plate armor I guess)
+
 
 ## <============ Mod Files Deleted ============> 
 Ancient Urban Ruins \1.6\SpecialThingFilterDef<br/>
@@ -123,29 +144,6 @@ Glass+Lights Moltovs<br/>
 VWE crossbow<br/>
 VWE gunpowder<br/>
 VAEA Quiver
-
-## <============ Recipes/Weapons/Apparels ============> 
-
-
-
-
-VWE flntlock prereq moved to Kits blackpowder<br/>
-VWE make musket prereq moved to MO gunpowder<br/>
-MO make boots/gloves renamed to make leather boots/gloves<br/>
-MO:Sanguine make kite shield added smithy prereq<br/>
-
-
-MO Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts<br/>
-Animal Hoods Wolf/Deer/Scimitar Cat/Spelopede/Megascarab/Megaspider Hood moved to MO Hood layer<br/>
-Vanilla Hood moved to Overhead layer<br/>
-
-Chemfuel turbine/brazier/heater/smelter/smithy/large smithy/crematorium/stove/large stove/floodlight/pot/sun lamp/wall light/standing lamp/darklight sun lamp/deep fryer added Biofuel Refining as prereq<br/>
-Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating Elements<br/>
-MO crossbow renamed to light crossbow
-
-
-## <============ Recipes ============> 
- 
 
 
 ## <============ Research ============> 
