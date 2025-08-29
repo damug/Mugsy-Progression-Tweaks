@@ -52,12 +52,13 @@ Add prereq food preparation (RR:SS) to mill roasted cacao
 ## Cinders of the Embergarden
 Add prereq... (late industrial guns?) to Multiple Warheads research
 
-## Divine Order
+## Divine Order  (see if it's possible to turn this into a style somehow?)
 Add prerequisite to Divine Order Equipment... <br/>
 Add prerequisite to Sacred Tablet Pedastal <br/>
 make divine order equipment added divine order techs for all
 Double check pre-reqs for Divine order... breastplate, plate armor, helmet, cowled helmet, light helmet, pistol <br/>
-
+rename DO crusader armor to Divine Order crusader armor (name dupe w/ Impact Weaponry)
+rename DO crusader helmet to Divine Order crusader helmet (name dupe w/ Impact Weaponry)
 
 
 ## Dryads & Gauranlen Trees Reworked
@@ -74,6 +75,7 @@ Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
 Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)
 Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts (name dupe w/ VFE:C) <br/>
 MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)
+MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)
 
 ## Medieval Overhaul: Adaptive Storage
 Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material <br/>
@@ -102,13 +104,11 @@ remove prefab wall + dia.prefab wall from Medieval furniture
 Remove hand/foot coverage from armors (when paired with Cat's Boots and Gloves)
 
 ## River's Tribal Shoes
-Move Sandals, Moccasins & Mukluks to Middle_A layer (from some other mod)
 River Tribal Shoes make mukluks/moccasins/sandals added tailor benches as users<br/>
 
 
 ## River's Tribal Mittens
-Move Mittens to Middle_A layer (from some other mod) <br/>
-Rename Mittens Paukluuks
+Rename Mittens Paukluuks<br/>
 River Tribal Mittens make mittens renamed pualuuks and added tailor benches as users<br/>
 
 ## Vanilla Apparel Expanded
