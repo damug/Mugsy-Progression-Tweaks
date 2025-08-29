@@ -13,6 +13,8 @@ use replacelib when combining things?
 ## Core:
 Change basic wall/door research from Medieval Furniture to Construction <br/>
 Vanilla Hood moved to Overhead layer<br/>
+Remove Neolithic tag from Parka & Kid Parka and change to Medieval tech level (to match Complex Clothing)<br/>
+
 
 ## Royalty
 Create dropdown for Small Nature Shrine & Large Nature Shrine
@@ -80,6 +82,9 @@ MO boots/gloves renamed to leather boots/gloves (to eliminate name dupe w/ VAE)<
 
 ## Medieval Overhaul: House Sanguine
 Sanguine kite shield added smithy prereq<br/>
+
+## More Creepjoiners
+Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)
 
 ## Oracle's Miscellania
 Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I guess)
