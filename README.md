@@ -55,10 +55,10 @@ Add prereq... (late industrial guns?) to Multiple Warheads research
 ## Divine Order  (see if it's possible to turn this into a style somehow?)
 Add prerequisite to Divine Order Equipment... <br/>
 Add prerequisite to Sacred Tablet Pedastal <br/>
-make divine order equipment added divine order techs for all
+make divine order equipment added divine order techs for all<br/>
 Double check pre-reqs for Divine order... breastplate, plate armor, helmet, cowled helmet, light helmet, pistol <br/>
-rename DO crusader armor to Divine Order crusader armor (name dupe w/ Impact Weaponry)
-rename DO crusader helmet to Divine Order crusader helmet (name dupe w/ Impact Weaponry)
+rename DO crusader armor to Divine Order crusader armor (name dupe w/ Impact Weaponry)<br/>
+rename DO crusader helmet to Divine Order crusader helmet (name dupe w/ Impact Weaponry)<br/>
 
 
 ## Dryads & Gauranlen Trees Reworked
@@ -70,12 +70,18 @@ Rename extinguisher drone to firefoam drone
 ## Genebank Expanded
 Large/Huge Gene Bank prereq moved to VGE basic genetic sampling (to match normal gene bank)<br/>
 
+## Kit's Gunpoweder Weapons
+Kit's Blackpowder requires Smithing and Alchemy researches<br/>
+Kit's Early Gunsmithing requires MO Gunpowder<br/>
+
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
-Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)
+Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)<br/>
 Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts (name dupe w/ VFE:C) <br/>
-MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)
-MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)
+MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)<br/>
+MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)<br/>
+MO Crossboow requires Archery research<br/>
+MO Gunpowder requires Kit's Blackpowder<br/>
 
 ## Medieval Overhaul: Adaptive Storage
 Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material <br/>
@@ -108,17 +114,20 @@ River Tribal Shoes make mukluks/moccasins/sandals added tailor benches as users<
 
 
 ## River's Tribal Mittens
-Rename Mittens Paukluuks<br/>
+Rename Mittens Paukluuks (name dupe w/ VAE) <br/>
 River Tribal Mittens make mittens renamed pualuuks and added tailor benches as users<br/>
 
 ## Vanilla Apparel Expanded
 make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)<br/>
 
+## Vanilla Factoins Expanded - Classical
+bronze moved recipe from smithy to furnance and smelters<br/>
+
 ## Vanilla Factions Expanded - Settlers
 move Circular table from Early Furniture to Complex Furniture
 
-## Vanilla Factoins Expanded - Classical
-bronze moved recipe from smithy to furnance and smelters<br/>
+## Vanilla Factions Expanded - Tribal
+VFET Furniture renamed Early Furniture<br/>
 
 ## Vanilla Anomally Expanded - Insanity
 Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only specific factions?
@@ -133,7 +142,9 @@ VWE make crossbow prereq moved to MO crossbow<br/>
 VWE make arbalest prereq moved to MO arbalest<br/>
 VWE Arbalest renamed Heavy Crossbow<br/>
 VWE flntlock prereq moved to Kits blackpowder<br/>
-VWE make musket prereq moved to MO gunpowder<br/>
+VWE matchlocks prereq moved to Kit's Blackpowder<br/>
+VWE musket prereq moved to MO gunpowder<br/>
+Condensed VWE Gunpowder research into MO Gunpowder<br/>
 
 
 ## Victorian Era Apparels!
@@ -152,13 +163,11 @@ VAEA Quiver
 
 
 ## <============ Research ============> 
-VFET Furniture renamed Early Furniture<br/>
-MO Crossboow requires Archery<br/>
-Condensed VWE Gunpowder into MO Gunpowder<br/>
-Kit's Blackpowder requires Smithing and Alchemy<br/>
-VWE Matchlocks require Kit's Blackpowder<br/>
-MO Gunpowder requires Kit's Blackpowder<br/>
-Kit's Early Gunsmithing requires MO Gunpowder<br/>
+
+
+
+
+
 Gunsmithing requires Kit's Early Gunsmithing<br/>
 VWE Makeshift Weapons requires MO Gunpowder<br/>
 VCE Soybean Fermentation requires AC Vinegar Brewing<br/>
