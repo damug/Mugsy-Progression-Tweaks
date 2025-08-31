@@ -147,7 +147,7 @@ update name to smoothed walls and smoothed floors (from smoothed)
 make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)<br/>
 
 ## Vanilla Cooking Expanded
-# Research
+### Research
 Soybean Fermentation requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
 
 ## Vanilla Factions Expanded - Classical
