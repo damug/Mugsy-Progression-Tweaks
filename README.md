@@ -97,6 +97,9 @@ Consolidate ranked bioferrite & voidmetal legs into the normal version, and remo
 ## Oracle's Miscellania
 Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I guess)
 
+## [SR]Raid Extension (fork)
+Figure out hot to make RaidStrategyDef SrLoggingSurprise & SrPoachingSurprise respect ignorance is bliss
+
 ## Rebuild Doors + Corners
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
 Remove gravship glasshull+(dia gravship glasshull) ""<br/>
