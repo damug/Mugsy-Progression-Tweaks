@@ -12,10 +12,18 @@ use replacelib when combining things?
 
 Replace weapontags on Flintlock/Matchlock/etc with appropriate tags so that only medieval pawns can use them
 
+Figure out how to change processor to MO wine cask:
+Ice wine (frostberry?) (MO)
+Blood wine
+Mulberry wine
+gorewine barrel
+griffon wine
+
 ## Core:
 Change basic wall/door research from Medieval Furniture to Construction <br/>
 Vanilla Hood moved to Overhead layer<br/>
 Remove Neolithic tag from Parka & Kid Parka and change to Medieval tech level (to match Complex Clothing)<br/>
+Gunsmithing requires Kit's Early Gunsmithing<br/>
 
 
 ## Royalty
@@ -62,6 +70,12 @@ Double check pre-reqs for Divine order... breastplate, plate armor, helmet, cowl
 rename DO crusader armor to Divine Order crusader armor (name dupe w/ Impact Weaponry)<br/>
 rename DO crusader helmet to Divine Order crusader helmet (name dupe w/ Impact Weaponry)<br/>
 
+## Det's Xenotypes - Gnoblins
+Det's Gnoblins Bile Processing requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
+
+## Det's Xenotypes - Keshig
+Add wine as prereq for gorewine barrel <br/>
+add wine as prereq for make gore must <br/>
 
 ## Dryads & Gauranlen Trees Reworked
 Create dropdown for Gaurenlen Shrine & Large Gauranlen Shrine
@@ -84,6 +98,9 @@ MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)<br/>
 MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)<br/>
 MO Crossboow requires Archery research<br/>
 MO Gunpowder requires Kit's Blackpowder<br/>
+add wine as prereq for make grape must <br/>
+add wine as prereq for make griffon berry must <br/>
+add wine as prereq for make mulberry must <br/>
 
 ## Medieval Overhaul: Adaptive Storage
 Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material <br/>
@@ -92,6 +109,7 @@ MO boots/gloves renamed to leather boots/gloves (to eliminate name dupe w/ VAE)<
 
 ## Medieval Overhaul: House Sanguine
 Sanguine kite shield added smithy prereq<br/>
+add wine as prereq for make blood grape must <br/>
 
 ## More Creepjoiners
 Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)
@@ -125,6 +143,10 @@ River Tribal Mittens make mittens renamed pualuuks and added tailor benches as u
 ## Vanilla Apparel Expanded
 make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)<br/>
 
+## Vanilla Cooking Expanded
+# Research
+Soybean Fermentation requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
+
 ## Vanilla Factoins Expanded - Classical
 bronze moved recipe from smithy to furnance and smelters<br/>
 
@@ -151,6 +173,9 @@ VWE matchlocks prereq moved to Kit's Blackpowder<br/>
 VWE musket prereq moved to MO gunpowder<br/>
 Condensed VWE Gunpowder research into MO Gunpowder<br/>
 
+## Vanilla Weapons Expanded - Makeshift
+VWE Makeshift Weapons requires MO Gunpowder<br/>
+
 
 ## Victorian Era Apparels!
 Remove neolithic tags from hussar jacket (and make match plate armor I guess)
@@ -173,10 +198,10 @@ VAEA Quiver
 
 
 
-Gunsmithing requires Kit's Early Gunsmithing<br/>
-VWE Makeshift Weapons requires MO Gunpowder<br/>
-VCE Soybean Fermentation requires AC Vinegar Brewing<br/>
-Det's Gnoblins Bile Processing requires AC Vinegar Brewing<br/>
+
+
+
+
 Mechtech Neurofoam Refinement requires basic mechtech<br/>
 Glass+Lights Glassworks requires smithing ???<br/>
 VWE:M wine requires Brewing Basics ???<br/>
