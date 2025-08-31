@@ -150,8 +150,12 @@ make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with
 # Research
 Soybean Fermentation requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
 
-## Vanilla Factoins Expanded - Classical
+## Vanilla Factions Expanded - Classical
 bronze moved recipe from smithy to furnance and smelters<br/>
+
+## Vanilla Factions Expanded - Empire
+disable royalgossip InteractionDef so pawns stop gaining random ranks<br/>
+**at some later point, figure out how to make it work with pawns of the actual empire faction only**<br/>
 
 ## Vanilla Factions Expanded - Settlers
 move Circular table from Early Furniture to Complex Furniture
@@ -192,7 +196,8 @@ MUS SpaceBase Furniture \Assemblies\
 Glass+Lights Moltovs<br/>
 VWE crossbow<br/>
 VWE gunpowder<br/>
-VAEA Quiver
+VAEA Quiver<br/>
+VFE:E royalgossip<br/>
 
 
 ## <============ Research ============> 
