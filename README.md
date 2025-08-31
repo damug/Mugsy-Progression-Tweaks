@@ -8,6 +8,8 @@ Condense Alpha Genes Night Owl, Big & Small - Genes & More Night Owl, and VRE-Ly
 [[https://preview.redd.it/vp64dv5737w71.jpg](https://preview.redd.it/vp64dv5737w71.jpg?width=1280&format=pjpg&auto=webp&s=c4c2527e5dd78821c51368f7ab47120e231d03ac)](https://www.reddit.com/r/RimWorld/comments/qhnges/weapon_research_projects_for_vanilla_weapons/)
 early VE breakdown of techs
 
+look at changes made by: https://steamcommunity.com/sharedfiles/filedetails/?id=3460160614&searchtext=research
+
 use replacelib when combining things?
 
 Replace weapontags on Flintlock/Matchlock/etc with appropriate tags so that only medieval pawns can use them
@@ -145,6 +147,9 @@ update name to smoothed walls and smoothed floors (from smoothed)
 
 ## Vanilla Apparel Expanded
 make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)<br/>
+
+## Vanilla Brewing Expanded
+rename Liquor brewing to Liquor distilling<br/>
 
 ## Vanilla Cooking Expanded
 ### Research
