@@ -10,6 +10,8 @@ early VE breakdown of techs
 
 use replacelib when combining things?
 
+Replace weapontags on Flintlock/Matchlock/etc with appropriate tags so that only medieval pawns can use them
+
 ## Core:
 Change basic wall/door research from Medieval Furniture to Construction <br/>
 Vanilla Hood moved to Overhead layer<br/>
