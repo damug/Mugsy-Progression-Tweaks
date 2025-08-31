@@ -140,6 +140,9 @@ River Tribal Shoes make mukluks/moccasins/sandals added tailor benches as users<
 Rename Mittens Paukluuks (name dupe w/ VAE) <br/>
 River Tribal Mittens make mittens renamed pualuuks and added tailor benches as users<br/>
 
+## Smooth Walls and Floors
+update name to smoothed walls and smoothed floors (from smoothed)
+
 ## Vanilla Apparel Expanded
 make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)<br/>
 
