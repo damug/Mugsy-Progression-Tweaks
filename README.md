@@ -95,6 +95,18 @@ Large/Huge Gene Bank prereq moved to VGE basic genetic sampling (to match normal
 Kit's Blackpowder requires Smithing and Alchemy researches<br/>
 Kit's Early Gunsmithing requires MO Gunpowder<br/>
 
+## Kit's Roman Weapons
+- Recipes
+  - make hasta
+    - added legionary armaments as prereq (if VFE:C loaded)
+  - make pugio
+    - added legionary armaments as prereq (if VFE:C loaded)
+  - make scutum shield
+    - added heavy shield making as prereq (if VFE:C loaded)
+- Apparel
+  - scutum shield
+    - add -.6 move speed debuff (to match VFE:C heavy shield, and be worse than it due to materials)
+
 ## Medieval Adventure Implants
 - Thought
   - all thoughts added (start wtih seti_*)
