@@ -95,6 +95,11 @@ Large/Huge Gene Bank prereq moved to VGE basic genetic sampling (to match normal
 Kit's Blackpowder requires Smithing and Alchemy researches<br/>
 Kit's Early Gunsmithing requires MO Gunpowder<br/>
 
+## Medieval Adventure Implants
+- Thought
+  - all thoughts added (start wtih seti_*)
+    - match base game syntax throughout (delete trailing period)
+
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
 Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)<br/>
