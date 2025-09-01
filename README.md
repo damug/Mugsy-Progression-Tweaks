@@ -53,6 +53,11 @@ Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating El
 ## Alpha Biomes
 research prereq for propane heater/smelter/smithy/stove/turret/machine table/pipe/drain/pump/tank/tap/valve added gas extraction<br/>
 
+## Animal Harvesting Spot (continued)
+- Building
+  - milking spot
+    - renamed to animal milking spot (name dupe w/ Roo's Minotaur Xenotype)
+
 ## Appliances Expanded
 Chemfuel turbine/brazier/heater/smelter/smithy/large smithy/crematorium/stove/large stove/floodlight/pot/sun lamp/wall light/standing lamp/darklight sun lamp/deep fryer added Biofuel Refining as additional prereq<br/>
 
@@ -213,6 +218,14 @@ change research prereq of feral flamethrower to flamethrower
 - Apparel
   - mittens
     - rename paukluuks (name dupe w/ VAE)
+
+## Roo's Minotaur Xenotype
+- Building
+  - minotaur crib
+    - change category to Childhood (if Ferny's Childhood loaded)
+  - milking spot
+    - renamed to pawn milking spot (name dupe w/ Animal Harvesting Spot)
+    - moved to misc category
 
 ## Smooth Walls and Floors
 - Building
