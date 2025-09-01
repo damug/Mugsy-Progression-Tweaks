@@ -5,7 +5,7 @@ Look @ how NQOL & Grouped Buildings + Even More Grouped Buildings group things..
 
 Condense Alpha Genes Night Owl, Big & Small - Genes & More Night Owl, and VRE-Lycanthrope Nocturnal into VRE-L Nocturnal, renamed Night Owel
 
-[[https://preview.redd.it/vp64dv5737w71.jpg](https://preview.redd.it/vp64dv5737w71.jpg?width=1280&format=pjpg&auto=webp&s=c4c2527e5dd78821c51368f7ab47120e231d03ac)](https://www.reddit.com/r/RimWorld/comments/qhnges/weapon_research_projects_for_vanilla_weapons/)
+https://www.reddit.com/r/RimWorld/comments/qhnges/weapon_research_projects_for_vanilla_weapons/
 early VE breakdown of techs
 
 look at changes made by: https://steamcommunity.com/sharedfiles/filedetails/?id=3460160614&searchtext=research
@@ -42,6 +42,9 @@ Move Fortified Wall from Medieval Furniture to Medieval Architecture
 
 ## Advance Incubator
 Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating Elements<br/>
+
+## Alpha Biomes
+research prereq for propane heater/smelter/smithy/stove/turret added biofuel refining<br/>
 
 ## Appliances Expanded
 Chemfuel turbine/brazier/heater/smelter/smithy/large smithy/crematorium/stove/large stove/floodlight/pot/sun lamp/wall light/standing lamp/darklight sun lamp/deep fryer added Biofuel Refining as additional prereq<br/>
@@ -98,11 +101,16 @@ Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alte
 Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts (name dupe w/ VFE:C) <br/>
 MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)<br/>
 MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)<br/>
-MO Crossboow requires Archery research<br/>
-MO Gunpowder requires Kit's Blackpowder<br/>
-add wine as prereq for make grape must <br/>
-add wine as prereq for make griffon berry must <br/>
-add wine as prereq for make mulberry must <br/>
+MO Crossboow requires research Archery<br/>
+MO Gunpowder requires research Kit's Blackpowder<br/>
+add wine as research prereq for make grape must <br/>
+add wine as research prereq for make griffon berry must <br/>
+add wine as research prereq for make mulberry must <br/>
+research prereq for castle wall changed to medieval architecture<br/>
+research prereq for tudor wall changed to medieval architecture<br/>
+research prereq for royal column changed to medieval architecture<br/>
+
+
 
 ## Medieval Overhaul: Adaptive Storage
 Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material <br/>
@@ -118,9 +126,15 @@ Consolidate ranked bioferrite & voidmetal legs into the normal version, and remo
 
 ## Oracle's Miscellania
 Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I guess)
+Disable triple doors
+
+
+## The Profaned
+research prereq for profaned double door added medieval architecture<br/>
+**better figure out how to make this stuff props**
 
 ## [SR]Raid Extension (fork)
-Figure out hot to make RaidStrategyDef SrLoggingSurprise & SrPoachingSurprise respect ignorance is bliss
+**Figure out how to make RaidStrategyDef SrLoggingSurprise & SrPoachingSurprise respect ignorance is bliss**
 
 ## Rebuild Doors + Corners
 Remove gravship hull +(dia. gravship hull) from Medieval Furniture<br/>
@@ -130,6 +144,19 @@ Change tech for fireplace & wallmounted fireplace to medieval architecture (VFE:
 
 ## RimEffect: Renegade Core
 remove prefab wall + dia.prefab wall from Medieval furniture
+
+## Rimsenal Faction Pack: Feral
+add research prereq machining to scavenger bench
+rename glaive to feral glaive
+change research prereq for glaive to basic polearms
+remove smithies as users of make glaive (only made at scavenger bench)
+rename scrap armor to feral scrap armor
+change research prereq for scrap armor to protective clothing
+chagne research prereq of feral hood to protective clothing
+change research prereq of feral mail to plate armor
+rename cleaver to feral cleaver (name dupe with VWE cleaver)
+change research prereq of feral gas mask to machining (to match other gas masks)
+change research prereq of feral flamethrower to flamethrower
 
 ## Rimworld: Spartan Foundry (Continued)
 Remove hand/foot coverage from armors (when paired with Cat's Boots and Gloves)
@@ -162,11 +189,18 @@ bronze moved recipe from smithy to furnance and smelters<br/>
 disable royalgossip InteractionDef so pawns stop gaining random ranks<br/>
 **at some later point, figure out how to make it work with pawns of the actual empire faction only**<br/>
 
+## Vanilla Factions Expanded - Medieval 2
+VWE:M2 wine requires Brewing Basics<br/>
+research prereq for make king's crown changed to royal apparel
+removed tailor benches from being able to make king's crown
+
+
 ## Vanilla Factions Expanded - Settlers
-move Circular table from Early Furniture to Complex Furniture
+research prereq for circular table changed to complex furniture<br/>
+research prereq for saloon door changed to complex furniture<br/>
 
 ## Vanilla Factions Expanded - Tribal
-VFET Furniture renamed Early Furniture<br/>
+VFE:T Furniture renamed Early Furniture<br/>
 
 ## Vanilla Anomally Expanded - Insanity
 Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only specific factions?
@@ -174,6 +208,9 @@ Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only spe
 
 ## Vanilla Races Expanded - Archons
 Figure out how to make Archon raid compatible with Ignorance is Bliss
+
+## Vanilla Vehicles Expanded
+Updated research prereq for tank traps to trench warfare
 
 ## Vanilla Weapons Expanded
 make molotov cocktails require 2 ReBuild Glass<br/>
@@ -217,7 +254,7 @@ VFE:E royalgossip<br/>
 
 Mechtech Neurofoam Refinement requires basic mechtech<br/>
 Glass+Lights Glassworks requires smithing ???<br/>
-VWE:M wine requires Brewing Basics ???<br/>
+
 Writing requires VFE:C Written Language ???<br/>
 Simple Warrants warrant network requires VFE:C Written Language ???<br/>
 <br/>
