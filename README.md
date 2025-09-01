@@ -189,7 +189,7 @@ change research prereq of feral flamethrower to flamethrower
 ## Vanilla Apparel Expanded
 - Apparel
   - plate boots/gloves
-    - renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)
+    - renamed to simple plate boot/gloves (name dupe w/ MO plate boots/gloves)
 
 ## Vanilla Brewing Expanded
 - Research Projects
@@ -204,6 +204,7 @@ change research prereq of feral flamethrower to flamethrower
 ## Vanilla Cooking Expanded
 - Buildings
   - Stew Pot
+    - changed name to wood-fired stew stove (name dupe w/ MO stew pot)
     - moved prereq to stews (if MO loaded)
 - Recipes
   - prepare simple/lavish/fine stew
