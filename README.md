@@ -44,7 +44,7 @@ Move Fortified Wall from Medieval Furniture to Medieval Architecture
 Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating Elements<br/>
 
 ## Alpha Biomes
-research prereq for propane heater/smelter/smithy/stove/turret added biofuel refining<br/>
+research prereq for propane heater/smelter/smithy/stove/turret/machine table/pipe/drain/pump/tank/tap/valve added gas extraction<br/>
 
 ## Appliances Expanded
 Chemfuel turbine/brazier/heater/smelter/smithy/large smithy/crematorium/stove/large stove/floodlight/pot/sun lamp/wall light/standing lamp/darklight sun lamp/deep fryer added Biofuel Refining as additional prereq<br/>
@@ -130,8 +130,15 @@ Disable triple doors
 
 
 ## The Profaned
+
 research prereq for profaned double door added medieval architecture<br/>
 **better figure out how to make this stuff props**
+
+## Progression: Production
+- Research Projects
+  - mending
+    - moved prereq to smithing
+    - made medieval tier
 
 ## [SR]Raid Extension (fork)
 **Figure out how to make RaidStrategyDef SrLoggingSurprise & SrPoachingSurprise respect ignorance is bliss**
@@ -179,11 +186,14 @@ make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with
 rename Liquor brewing to Liquor distilling<br/>
 
 ## Vanilla Cooking Expanded
-### Research
-Soybean Fermentation requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
+- Research Projects
+  - soybean fermintation
+    - moved prereq to vinvegar brewing (if Alpha Crafts loaded)
 
 ## Vanilla Factions Expanded - Classical
-bronze moved recipe from smithy to furnance and smelters<br/>
+- Recipes
+  - Bronze
+    - moved from wmith to furnace/smelters
 
 ## Vanilla Factions Expanded - Empire
 disable royalgossip InteractionDef so pawns stop gaining random ranks<br/>
