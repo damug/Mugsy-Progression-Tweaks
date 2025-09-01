@@ -22,6 +22,13 @@ gorewine barrel
 griffon wine
 
 ## Core:
+- Building
+  - electric smelter
+    - changed prereq to industrial smithing (if Progression: Industry loaded)
+  - fueld smelter
+    - change designator order to 2300 (so it displays on dropdown by default)
+  - electric tailor bench
+    - changed prereq from electricty to circuitry (to match other electric crafting benches)
 Change basic wall/door research from Medieval Furniture to Construction <br/>
 Vanilla Hood moved to Overhead layer<br/>
 Remove Neolithic tag from Parka & Kid Parka and change to Medieval tech level (to match Complex Clothing)<br/>
@@ -55,6 +62,15 @@ Animal Hoods Wolf/Deer/Scimitar Cat/Spelopede/Megascarab/Megaspider Hood moved t
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds <br/>
 
+## Bill Doors' Simple Sings
+- Building
+  - electric information sign
+    - fixed mispelled name (s/sing/sign)
+    - added electricy as prereq
+  - electric warning sign
+    - added electricy as prereq
+
+    
 ## Bombardment Raid (continued)
 Figure out how to make bombardment raid compatible with Ignorance is Bliss
 
@@ -203,6 +219,9 @@ change research prereq of feral flamethrower to flamethrower
   - smooth walls/floors
     -renamed to smoothed walls/floors
 
+## Vanilla Anomally Expanded - Insanity
+Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only specific factions?
+
 ## Vanilla Apparel Expanded
 - Apparel
   - plate boots/gloves
@@ -220,8 +239,32 @@ change research prereq of feral flamethrower to flamethrower
 
 ## Vanilla Cooking Expanded
 - Buildings
+  - Electric Pot
+    - added prereq of heating elements (if RR:SS loaded)
+   
+## Vanilla Cooking Expanded - Grilling
+- Research Projects
+  - Grilling
+    - renamed to modern grilling (name dupe w/ MO grilling)
+    - added prereqs biofuel refining, heating elements (if RR:SS loaded) and MO grilling
+- Building
+  - electric grill
+    - added prereq heating elements (if RR:SS loaded)
+- Cherrypicker
+  - Disable stew cooking (everything consolidated to MO stews if loaded)
+
+## Vanilla Cooking Expanded - Haute
+- Research Projects
+  - Haute Cuisine
+    -
+  - Buildings
+    - electric haute section
+      - added prereq heating elements (if RR:SS loaded)
+
+## Vanilla Cooking Expanded - Stews
+- Buildings
   - Stew Pot
-    - changed name to wood-fired stew stove (name dupe w/ MO stew pot)
+    - changed name to stew stove (name dupe w/ MO stew pot)
     - moved prereq to stews (if MO loaded)
 - Recipes
   - prepare simple/lavish/fine stew
@@ -251,8 +294,10 @@ research prereq for saloon door changed to complex furniture<br/>
 ## Vanilla Factions Expanded - Tribal
 VFE:T Furniture renamed Early Furniture<br/>
 
-## Vanilla Anomally Expanded - Insanity
-Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only specific factions?
+## Vanilla Furniture Expanded - Production
+- Building
+  - large electric smithy
+    - change prereq from smithing to industrial smithing (if Progression: Production loaded)
 
 
 ## Vanilla Races Expanded - Archons
@@ -312,7 +357,7 @@ Simple Warrants warrant network requires VFE:C Written Language ???<br/>
 <br/>
 <br/>
 Grill (renamed to Rustic Grilling) requires Basic Cooking<br/>
-Grilling (renamed to Modern Grilling) requires Electricity, Biofuel Refining and Rustic Grilling<br/>
+
 Sushi Making requires Advanced Cooking and Fishing<br/>
 Expresso Machine requires Brewing Basics and Andvanced Cooking<br/>
 Food Condiments require Advanced Cooking<br/>
