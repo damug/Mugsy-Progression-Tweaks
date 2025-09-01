@@ -166,29 +166,50 @@ change research prereq of feral gas mask to machining (to match other gas masks)
 change research prereq of feral flamethrower to flamethrower
 
 ## Rimworld: Spartan Foundry (Continued)
-Remove hand/foot coverage from armors (when paired with Cat's Boots and Gloves)
+**Remove hand/foot coverage from armors (when paired with Cat's Boots and Gloves)**
 
 ## River's Tribal Shoes
-River Tribal Shoes make mukluks/moccasins/sandals added tailor benches as users<br/>
-
+- Recipes
+  - make mukluks/moccasins/sandals
+    - added tailor benches as users
 
 ## River's Tribal Mittens
-Rename Mittens Paukluuks (name dupe w/ VAE) <br/>
-River Tribal Mittens make mittens renamed pualuuks and added tailor benches as users<br/>
+- Recipes
+  - make mittens
+    - added tailor benches as users
+- Apparel
+  - mittens
+    - rename paukluuks (name dupe w/ VAE)
 
 ## Smooth Walls and Floors
-update name to smoothed walls and smoothed floors (from smoothed)
+- Building
+  - smooth walls/floors
+    -renamed to smoothed walls/floors
 
 ## Vanilla Apparel Expanded
-make plate boots/gloves renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)<br/>
+- Apparel
+  - plate boots/gloves
+    - renamed to simple plate boot/gloves (duplciate name with MO plate boots/gloves)
 
 ## Vanilla Brewing Expanded
-rename Liquor brewing to Liquor distilling<br/>
+- Research Projects
+  - liquore brewing
+    - renamed to liquor distilling
 
 ## Vanilla Cooking Expanded
 - Research Projects
   - soybean fermintation
     - moved prereq to vinvegar brewing (if Alpha Crafts loaded)
+
+## Vanilla Cooking Expanded
+- Buildings
+  - Stew Pot
+    - moved prereq to stews (if MO loaded)
+- Recipes
+  - prepare simple/lavish/fine stew
+    - removed campfire/firepit as users
+- Cherrypicker
+  - Disable stew cooking (everything consolidated to MO stews if loaded)
 
 ## Vanilla Factions Expanded - Classical
 - Recipes
