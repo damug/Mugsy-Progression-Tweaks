@@ -132,6 +132,10 @@ Kit's Early Gunsmithing requires MO Gunpowder<br/>
 - Thought
   - all thoughts added (start wtih seti_*)
     - match base game syntax throughout (delete trailing period)
+   
+## Medieval Tailor Continued
+- Apparel
+
 
 ## Medieval Overhaul
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
@@ -168,7 +172,6 @@ Disable triple doors
 
 
 ## The Profaned
-
 research prereq for profaned double door added medieval architecture<br/>
 **better figure out how to make this stuff props**
 
