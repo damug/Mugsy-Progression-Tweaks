@@ -396,3 +396,33 @@ Drug Production requires Alchemy and HeatingElements<br/>
 <br/>
 
 Industrial Workout Equipment requires Machining and Complex Furniture
+
+
+
+
+## <============ Other weapon tweaks to think about (look at  https://pastebin.com/BEfYxfXm for more ideas) ============> 
+Gunpowder - Matchlock Pistol, Matchlock Arquebus - Smithy/Machining Table
+
+Breech-Loading - Double-Barreled Shotgun, Breech-Loading Rifle - Smithy/Machining Table
+
+Repeating Actions - Revolver, Pump-Action Shotgun, Lever-Action Rifle, Bolt-Action Rifle - Smithy/Machining Table
+
+Self-Loading Actions - Semi-Automatic Pistol, Submachine Gun, Automatic Shotgun, Assault Rifle, Battle Rifle, Light Machine Gun - Machining Table
+
+Magnetically Assisted Projectiles - Gauss Pistol, Gauss Rifle, Gauss Machine Gun, Gauss Sniper - Fabrication Bench
+
+Optics - Bolt-Action Sniper - Smithy/Machining Table
+
+Fuses - Frag Grenades, Molotov Cocktails - Smithy/Machining Table
+
+Grenade Launchers - Grenade Launcher, Incendiary Launcher - Machining Table
+
+Smart Munitions - Smart Launcher - Machining Table
+
+Solid Rocket Motors - Disposable Launcher - Machining Table
+
+EMP - EMP grenades, - Machining Table
+
+Multibarrel Weapons - Gatling Gun - Security Tab
+
+Brushless Motors - Minigun - Machining Table
