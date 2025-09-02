@@ -183,35 +183,35 @@ Consolidate ranked bioferrite & voidmetal legs into the normal version, and remo
     - renamed to vitrophyre
   - obsidian synthweave
     - renamed to vitrophyre synthweave
-  - Recipes
-    - sythesis mythril
-      - renamed synthesis ithildin
-    - sythesis mythril synthweave
-      - renamed synthesis ithildin synthweave
-    - fabricate genepack: Minor summoning: Mythril slime
-      - renamed fabricate genepack: Minor summoning: Ithildin slime
-    - install skin implant - Mythril
-      - renamed install skin implant - Ithildin
-    - make mythril slime heart (Conf.)
-      - renamed make ithildin slime heart (Conf.)
-    - make skin implant - Mythril
-      - renamed make skin implant - Ithildin
-    - remove skin implant - Mythil
-      - renamed remove skin implan - Ithildin
-    - sythesis obsidian
-      - renamed vitrophyre
-    - sythesis vitrophyre synthweave
-      - renamed synthesis vitrophyre synthweave
-    - fabricate genepack: Minor summoning: Obsidian slime
-      - renamed fabricate genepack: Minor summoning: Vitrophyre slime
-    - install skin implant - Obsidian
-      - renamed install skin implant - Vitrophyre
-    - make obsidian slime heart (Conf.)
-      - renamed make vitrophyre slime heart (Conf.)
-    - make skin implant - Obsidian
-      - renamed make skin implant - Vitrophyre
-    - remove skin implant - Obsidian
-      - renamed remove skin implan - Vitrophyre
+- Recipes
+  - sythesis mythril
+    - renamed synthesis ithildin
+  - sythesis mythril synthweave
+    - renamed synthesis ithildin synthweave
+  - fabricate genepack: Minor summoning: Mythril slime
+    - renamed fabricate genepack: Minor summoning: Ithildin slime
+  - install skin implant - Mythril
+    - renamed install skin implant - Ithildin
+  - make mythril slime heart (Conf.)
+    - renamed make ithildin slime heart (Conf.)
+  - make skin implant - Mythril
+    - renamed make skin implant - Ithildin
+  - remove skin implant - Mythil
+    - renamed remove skin implan - Ithildin
+  - sythesis obsidian
+    - renamed vitrophyre
+  - sythesis vitrophyre synthweave
+    - renamed synthesis vitrophyre synthweave
+  - fabricate genepack: Minor summoning: Obsidian slime
+    - renamed fabricate genepack: Minor summoning: Vitrophyre slime
+  - install skin implant - Obsidian
+    - renamed install skin implant - Vitrophyre
+  - make obsidian slime heart (Conf.)
+    - renamed make vitrophyre slime heart (Conf.)
+  - make skin implant - Obsidian
+    - renamed make skin implant - Vitrophyre
+  - remove skin implant - Obsidian
+    - renamed remove skin implan - Vitrophyre
 - Floors
   - mythril tile
     - rename ithildin tile
