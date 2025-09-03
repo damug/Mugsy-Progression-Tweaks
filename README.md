@@ -79,6 +79,10 @@ Move B&S furniture to bedroom, create dropdowns for underlying beds, disable pri
 ## Bombardment Raid (continued)
 Figure out how to make bombardment raid compatible with Ignorance is Bliss
 
+## Canon
+- Research
+  - change prereq for cannon to blackpower (if Kit's Gunpowder Weapons loaded)
+
 ## Cat's Boots and Gloves
 make flak boots/gloves renamed to combat boots/gloves<br/>
 
@@ -311,7 +315,9 @@ Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only spe
 ## Vanilla Apparel Expanded
 - Apparel
   - plate boots/gloves
-    - renamed to simple plate boot/gloves (name dupe w/ MO plate boots/gloves)
+    - renamed to simple plate boot/gloves (name dupe w/ MO)
+  - lab coat
+    - renamed to researcher's coat (name dupe w/ Anomaly)
 
 ## Vanilla Brewing Expanded
 - Research Projects
