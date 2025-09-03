@@ -170,75 +170,7 @@ Sanguine kite shield added smithy prereq<br/>
 add wine as prereq for make blood grape must <br/>
 
 ## More Creepjoiners
-Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)
-
-## Obsidia Expansion
-- Building
-  - mythril ore
-   - renamed ithildin (name dupe w/ MO, another tolkien name for mithri)
-  - obsidian ore
-    - renamed vitrophyre (name dupe w/ Odyssey, another lave glass)
-- Materials
-  - mythril
-    - renamed ithildin
-  - mythril synthweave
-    - renamed ithildin synthweave
-  - obsidian
-    - renamed to vitrophyre
-  - obsidian synthweave
-    - renamed to vitrophyre synthweave
-- Recipes
-  - sythesis mythril
-    - renamed synthesis ithildin
-  - sythesis mythril synthweave
-    - renamed synthesis ithildin synthweave
-  - fabricate genepack: Minor summoning: Mythril slime
-    - renamed fabricate genepack: Minor summoning: Ithildin slime
-  - install skin implant - Mythril
-    - renamed install skin implant - Ithildin
-  - make mythril slime heart (Conf.)
-    - renamed make ithildin slime heart (Conf.)
-  - make skin implant - Mythril
-    - renamed make skin implant - Ithildin
-  - remove skin implant - Mythil
-    - renamed remove skin implan - Ithildin
-  - sythesis obsidian
-    - renamed vitrophyre
-  - sythesis vitrophyre synthweave
-    - renamed synthesis vitrophyre synthweave
-  - fabricate genepack: Minor summoning: Obsidian slime
-    - renamed fabricate genepack: Minor summoning: Vitrophyre slime
-  - install skin implant - Obsidian
-    - renamed install skin implant - Vitrophyre
-  - make obsidian slime heart (Conf.)
-    - renamed make vitrophyre slime heart (Conf.)
-  - make skin implant - Obsidian
-    - renamed make skin implant - Vitrophyre
-  - remove skin implant - Obsidian
-    - renamed remove skin implan - Vitrophyre
-- Floors
-  - mythril tile
-    - rename ithildin tile
-  - mythril matrix tile
-    - rename ithildin matrix tile
-  - obsidian tile
-    - rename vitrophyre tile
-  - obsidian matrix tile
-    - rename vitrophyre matrix tile
-- Item
-  - obsidian slime heart (Conf.)
-    - renamed vitrophyre slime heart (Conf.)
-   - skin implant - Obsidian
-      - renamed skin implant - Vitrophyre
-  - mythril slime heart (Conf.)
-    - renamed ithildin slime heart (Conf.)
-   - skin implant - Mythril
-      - renamed skin implant - Ithildin
-- Pawnkind
-  - obsidian slime
-    - renamed vitrophyre slime
-  - mythril slime
-    - renamed ithildin slime
+**Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)**
 
 ## Oracle's Miscellania
 Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I guess)
