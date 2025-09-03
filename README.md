@@ -29,6 +29,11 @@ griffon wine
     - change designator order to 2300 (so it displays on dropdown by default)
   - electric tailor bench
     - changed prereq from electricty to circuitry (to match other electric crafting benches)
+- Recipes
+  - short bow
+    - remove smithies/anvil from users (to match other MO bows)
+  - recurve bow
+    - remove smithies/anvil from users (to match other MO bows)
 Change basic wall/door research from Medieval Furniture to Construction <br/>
 Vanilla Hood moved to Overhead layer<br/>
 Remove Neolithic tag from Parka & Kid Parka and change to Medieval tech level (to match Complex Clothing)<br/>
@@ -39,6 +44,9 @@ Gunsmithing requires Kit's Early Gunsmithing<br/>
 Create dropdown for Small Nature Shrine & Large Nature Shrine
 
 ## Ideology
+- Recipes
+  - make flamebow
+    - removed smithies/anvil from users (to match other MO bows)
 
 ## Anomaly
 Change basic wall/door research from Medieval Furniture to Construction
@@ -66,6 +74,14 @@ Animal Hoods Wolf/Deer/Scimitar Cat/Spelopede/Megascarab/Megaspider Hood moved t
 
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds <br/>
+
+## Big & Small - Genes & More
+- Recipes
+  - make giant bow
+    - remove smithies/anvil from users, add workbench
+- Weapons
+  - Giant Bow
+    - change name to giant bow (remove caps)
 
 ## Bill Doors' Simple Sings
 - Building
@@ -145,7 +161,6 @@ Kit's Early Gunsmithing requires MO Gunpowder<br/>
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
 Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)<br/>
 Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts (name dupe w/ VFE:C) <br/>
-MO crossbow renamed to light crossbow (name dupe w/ VFE:M2)<br/>
 MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)<br/>
 MO Crossboow requires research Archery<br/>
 MO Gunpowder requires research Kit's Blackpowder<br/>
@@ -157,6 +172,17 @@ research prereq for tudor wall changed to medieval architecture<br/>
 research prereq for royal column changed to medieval architecture<br/>
 - Recipe
   - refine raw mithril into an ingot ????
+  - make hunting bow
+    - remove smithys/anvil from users (workbench only, because wood)
+  - make greatbow
+    - remove smithys/anvil from users (workbench only, because wood)
+  - make crossbow
+    - swapped 20x iron ingot for 1x basic component
+  - make arbalest
+    - changed recipe from 60x wood plank, 25x iron ingot to 80x wood plank, 2 basic component
+- Weapon
+  - crossbow
+    - renamed light crossbow (name dupe w/ VFM:M2) 
  
 
 
@@ -183,6 +209,11 @@ Disable triple doors
 ## The Profaned
 research prereq for profaned double door added medieval architecture<br/>
 **better figure out how to make this stuff props**
+- Recipes
+  - make weathered short bow
+    - removed smithies/anvil from users, added workbench (to match other MO bows)
+  - make profaned greatbow
+    - removed smithies/anvil from users, added workbench (to match other MO bows)
 
 ## Progression: Production
 - Research Projects
@@ -201,6 +232,11 @@ Change tech for fireplace & wallmounted fireplace to medieval architecture (VFE:
 
 ## RimEffect: Renegade Core
 remove prefab wall + dia.prefab wall from Medieval furniture
+
+## Rim-Elves
+- Recipes
+  - make composite bow
+    - remove smithies/anvil from users, add workbench (to match other MO bows)
 
 ## Rimsenal Faction Pack: Feral
 add research prereq machining to scavenger bench
@@ -309,10 +345,24 @@ disable royalgossip InteractionDef so pawns stop gaining random ranks<br/>
 **at some later point, figure out how to make it work with pawns of the actual empire faction only**<br/>
 
 ## Vanilla Factions Expanded - Medieval 2
+- Recipes
+  - make warbow
+    - removed smithies as users (to match other MO bows)
+  - make crossbow
+    - removed smithies as users (to match MO crossbow)
+    - reduced wood plank req to 60x
+  - make arbalest
+    - removed smithies/anvil from users, added workbench
+    - removed 20x iron ingot from recipe, added basic component 2x
+- Weapons
+  - warbow
+    - renamed heavy greatbow (name dupe w/ MO)
+  - arbalest
+    - renamed heavy crossbow (name dupe w/ MO)
+      
 VWE:M2 wine requires Brewing Basics<br/>
-research prereq for make king's crown changed to royal apparel
-removed tailor benches from being able to make king's crown
-
+research prereq for make king's crown changed to royal apparel<br/>
+removed tailor benches from being able to make king's crown<br/>
 
 ## Vanilla Factions Expanded - Settlers
 research prereq for circular table changed to complex furniture<br/>
@@ -334,6 +384,12 @@ Figure out how to make Archon raid compatible with Ignorance is Bliss
 Updated research prereq for tank traps to trench warfare
 
 ## Vanilla Weapons Expanded
+- Recipes
+  - make long bow
+    - removed smithies, anvil, crafting spot from users, added workbench (to match other MO bows)
+- Weapons
+  - make compound bow
+    - renamed hunter's compound bow (name dupe w/ Rimsenal Augmented Vanilla)
 make molotov cocktails require 2 ReBuild Glass<br/>
 VWE make crossbow prereq moved to MO crossbow<br/>
 VWE make arbalest prereq moved to MO arbalest<br/>
