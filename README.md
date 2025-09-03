@@ -169,6 +169,9 @@ MO boots/gloves renamed to leather boots/gloves (to eliminate name dupe w/ VAE)<
 Sanguine kite shield added smithy prereq<br/>
 add wine as prereq for make blood grape must <br/>
 
+## Medieval Overhaul: Patcher
+- Removed dried hay and associated structures (hay bale, etc)
+
 ## More Creepjoiners
 **Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)**
 
