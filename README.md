@@ -170,6 +170,9 @@ add wine as research prereq for make mulberry must <br/>
 research prereq for castle wall changed to medieval architecture<br/>
 research prereq for tudor wall changed to medieval architecture<br/>
 research prereq for royal column changed to medieval architecture<br/>
+- Building
+  - butcher block
+    - add to ButcherTable dropdown
 - Recipe
   - refine raw mithril into an ingot ????
   - make hunting bow
