@@ -21,6 +21,14 @@ Mulberry wine
 gorewine barrel
 griffon wine
 
+Figure out how to make certain events cooperate with ignorance is bliss:
+- archon raid
+- bombardment raid
+- hostile faction travellers
+- poachers
+- loggers
+- others
+
 ## Core:
 - Building
   - electric smelter
