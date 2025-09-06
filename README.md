@@ -69,6 +69,10 @@ Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating El
 ## Alpha Biomes
 research prereq for propane heater/smelter/smithy/stove/turret/machine table/pipe/drain/pump/tank/tap/valve added gas extraction<br/>
 
+## Alpha Crafts
+- Research
+  - miscellaneous artisinal crafting requires crafting facilities (if RR:SS loaded)
+
 ## Animal Harvesting Spot (continued)
 - Building
   - milking spot
