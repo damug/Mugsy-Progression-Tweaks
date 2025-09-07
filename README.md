@@ -84,8 +84,22 @@ Chemfuel turbine/brazier/heater/smelter/smithy/large smithy/crematorium/stove/la
 ## Animal Hoods
 Animal Hoods Wolf/Deer/Scimitar Cat/Spelopede/Megascarab/Megaspider Hood moved to MO Hood layer<br/>
 
+## Animal Sarcophagus
+- Buildings
+  - large/small animal sarcophagus
+    - add to RIMMQoL8 dropdown
+
 ## Big & Small Furniture
 Move B&S furniture to bedroom, create dropdowns for underlying beds, disable primitive beds <br/>
+
+## Big Graves & Sarcophagus (& Small Graves & Sarcophagus)
+- Buildings
+  - Big/Small Grave
+    - move to culture category & add to NQoL-Graves dropdown
+  - Big/Small Sarcophagus
+    - move to culture category & add to RIMMQoL9 dropdown
+  - Big/Small Grand Sarcophagus
+    - move to culture category & add to RIMMQoL10 dropdown
 
 ## Big & Small - Genes & More
 - Recipes
@@ -164,7 +178,12 @@ Kit's Early Gunsmithing requires MO Gunpowder<br/>
 - Thought
   - all thoughts added (start wtih seti_*)
     - match base game syntax throughout (delete trailing period)
-   
+
+## Medieval Go-juice
+- Drugs (Food)
+  - psychite joint
+    - Increase stack size to 150 to match smokeleaf joint
+
 ## Medieval Tailor Continued
 - Apparel
 
@@ -212,6 +231,11 @@ add wine as prereq for make blood grape must <br/>
 
 ## Medieval Overhaul: Patcher
 - Removed dried hay and associated structures (hay bale, etc)
+
+## Memorial Grave
+- Buildings
+  - grave with cross
+    - move to culture category & add to NQoL-Graves dropdown
 
 ## More Creepjoiners
 **Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)**
