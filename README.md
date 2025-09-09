@@ -29,6 +29,9 @@ Figure out how to make certain events cooperate with ignorance is bliss:
 - loggers
 - others
 
+### To-do
+- add additional research prereqs to anima rod, faehelm, fae blade, faemail, faemore, fae staff, fae whip, faerrow... and maybe faecloak, faegarms (incl. kid), 
+
 ### Designation group tweaks:
 
 - Campfires
