@@ -29,6 +29,29 @@ Figure out how to make certain events cooperate with ignorance is bliss:
 - loggers
 - others
 
+### Designation group tweaks:
+
+- Campfires
+  - Campfire, firepit, dark firepit - condensed into dropdown Heating/RIMsQOL1
+- Rune stone
+  - Culture
+- Gauranlen Shrine (incl. large)
+  - Culture
+- Anima sapling
+  - Decorations
+- Pontoon bridge
+  - Foundations
+- Smoothed Wall
+  - Walls
+- Layered nacre wall
+  - Walls
+- Embrasure
+  - Walls
+- Castle wall embrasure
+  - Walls
+
+### Mod tweaks
+
 ## Core:
 - Building
   - electric smelter
@@ -198,12 +221,13 @@ MO Gunpowder requires research Kit's Blackpowder<br/>
 add wine as research prereq for make grape must <br/>
 add wine as research prereq for make griffon berry must <br/>
 add wine as research prereq for make mulberry must <br/>
-research prereq for castle wall changed to medieval architecture<br/>
 research prereq for tudor wall changed to medieval architecture<br/>
 research prereq for royal column changed to medieval architecture<br/>
 - Building
   - butcher block
     - add to ButcherTable dropdown
+  - castle wall/castle wall embrasure
+    - changed prereq to medieval architecture
 - Recipe
   - refine raw mithril into an ingot ????
   - make hunting bow
@@ -409,6 +433,12 @@ research prereq for saloon door changed to complex furniture<br/>
 
 ## Vanilla Factions Expanded - Tribal
 VFE:T Furniture renamed Early Furniture<br/>
+
+
+## Vanilla Furniture Expanded - Production
+- Building
+  - log wall
+    - disable in favor of MO log wall
 
 ## Vanilla Furniture Expanded - Production
 - Building
