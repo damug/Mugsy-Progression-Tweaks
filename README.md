@@ -392,15 +392,24 @@ Remove Neolithic Tags from Straightjacket... move to industrial?  Maybe only spe
 
 ## Vanilla Cooking Expanded - Stews
 - Buildings
-  - Stew Pot
+  - stew pot
     - changed name to stew stove (name dupe w/ MO stew pot)
     - moved prereq to stews (if MO loaded)
 - Recipes
   - prepare simple/lavish/fine stew
     - removed campfire/firepit as users
 - Cherrypicker
-  - Disable stew cooking (everything consolidated to MO stews if loaded)
-
+  - Disable stew cooking research (everything consolidated to MO stews if loaded)
+ 
+## Vanilla Cooking Expanded - Electric Stews
+- Buildings
+  - electric stew pot
+    - added stews and heating elements as prereqs
+  - chemfuel stew pot
+    - added stews and biofuel refining as prereqs
+  - gas stew pot
+    - disabled (no gas soup pot to match)
+      
 ## Vanilla Factions Expanded - Classical
 - Recipes
   - Bronze
