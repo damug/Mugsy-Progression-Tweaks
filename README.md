@@ -52,6 +52,8 @@ Figure out how to make certain events cooperate with ignorance is bliss:
   - Walls
 - Castle wall embrasure
   - Walls
+- Medicine cabinet (incl. simple)
+  - Store
 
 ### Mod tweaks
 
@@ -340,6 +342,13 @@ change research prereq of feral flamethrower to flamethrower
   - milking spot
     - renamed to pawn milking spot (name dupe w/ Animal Harvesting Spot)
     - moved to misc category
+ 
+## Simple Medical Cabinet
+- Building
+  - simple medical cabinet
+    - added research prereq hospital bed
+  - medical cabinet
+    - added research prereq hospital bed
 
 ## Smooth Walls and Floors
 - Building
