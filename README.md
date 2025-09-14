@@ -98,6 +98,9 @@ Advance Incubator renamed to Heated Egg Box and prereq moved to RR:SS Heating El
 research prereq for propane heater/smelter/smithy/stove/turret/machine table/pipe/drain/pump/tank/tap/valve added gas extraction<br/>
 
 ## Alpha Crafts
+- Recipes
+  - churn butter
+    - remove corn, chocolate, coconuts, peanuts & smokeleaf leaves from acceptable ingredients (mainly coconuts since can make vegetable milk out of them with vegetable milk press, others because they make spreads, not butter)
 - Research
   - miscellaneous artisinal crafting requires crafting facilities (if RR:SS loaded)
 
