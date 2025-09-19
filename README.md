@@ -172,6 +172,11 @@ make divine order equipment added divine order techs for all<br/>
 Double check pre-reqs for Divine order... breastplate, plate armor, helmet, cowled helmet, light helmet, pistol <br/>
 rename DO crusader armor to Divine Order crusader armor (name dupe w/ Impact Weaponry)<br/>
 rename DO crusader helmet to Divine Order crusader helmet (name dupe w/ Impact Weaponry)<br/>
+- Recipe
+  - make divine order crossbow
+    - changed steel req to 2x basic component
+  - make divine order hand crossbow
+    - changed steel req to 1x basic component
 
 ## Det's Xenotypes - Gnoblins
 Det's Gnoblins Bile Processing requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
@@ -438,6 +443,7 @@ disable royalgossip InteractionDef so pawns stop gaining random ranks<br/>
   - make crossbow
     - removed smithies as users (to match MO crossbow)
     - reduced wood plank req to 60x
+    - changed component req to 1x basic component
   - make arbalest
     - removed smithies/anvil from users, added workbench
     - removed 20x iron ingot from recipe, added basic component 2x
