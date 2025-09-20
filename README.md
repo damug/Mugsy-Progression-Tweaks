@@ -36,7 +36,7 @@ Figure out how to make certain events cooperate with ignorance is bliss:
 ### Designation group tweaks:
 
 - Campfires
-  - Campfire, firepit, dark firepit - condensed into dropdown Heating/RIMsQOL1
+  - Campfire, firepit, dark firepit - Heating/RIMsQOL1
 - Rune stone
   - Culture
 - Gauranlen Shrine (incl. large)
@@ -55,7 +55,27 @@ Figure out how to make certain events cooperate with ignorance is bliss:
   - Walls
 - Medicine cabinet (incl. simple)
   - Store
-
+- Giant Crib
+  - Childhood
+- Beds
+  - Hospital bed, smol hospital bed, giant hospital bed - Medical/RIMsQOL1
+  - smol log slab bed, giant log slab bed - Bedroom/Ferny_LogBeds
+  - Smol bedroll, giant bedroll, giant double bedroll - Bedroom/Ferny_Bedrolls
+  - Smol bed, giant bed, giant double bed - Bedroom/Ferny_Beds
+  - Smol straw bed, giant straw bed, giant double staw bed - Bedroom/Ferny_StrawBeds
+  - Smol, wicker bed, giant wicker bed, giant double wicker bed - Bedroom/Ferny_WickerBeds
+  - Royal bed, smol royal bed, giant royal bed - Bedroom/RIMsQOL1
+  - Royal poster bed, giant royal poster bed - Bedroom/RIMsQOL2
+  - Giant ergonomic bed, giant ergonomic double bed - Bedroom/Ferny_ErgonomicBeds
+  - Smol fur bed, giant fur bed, giant double fur bed - Bedroom/Ferny_FurBeds
+  - Royal tudor bed, smol royal tudor bed, giant royal tudor bed - Bedroom/RIMsQOL3
+  - smol primitive bed, giant primitive bed - NONE/NONE
+- Animal Beds
+  - animal sleeping spot, giant animal sleeing spot - Bedding/RIMsQOL1
+  - animal bed, giant animal bed - Bedding/RIMsQOL2
+  - animal sleeping box, giant animal sleeping box - Bedding/RIMsQOL3
+- Globe
+  - Childhood
 ### Mod tweaks
 
 ## Core:
