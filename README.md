@@ -177,7 +177,7 @@ rename DO crusader helmet to Divine Order crusader helmet (name dupe w/ Impact W
     - changed steel req to 2x basic component
   - make divine order hand crossbow
     - changed steel req to 1x basic component
-
+      
 ## Det's Xenotypes - Gnoblins
 Det's Gnoblins Bile Processing requires Vinegar Brewing (if Alpha Crafts loaded)<br/>
 
@@ -449,7 +449,7 @@ disable royalgossip InteractionDef so pawns stop gaining random ranks<br/>
     - removed 20x iron ingot from recipe, added basic component 2x
 - Weapons
   - warbow
-    - renamed heavy greatbow (name dupe w/ MO)
+    - renamed siege bow (name dupe w/ MO)
   - arbalest
     - renamed heavy crossbow (name dupe w/ MO)
       
@@ -487,8 +487,10 @@ Updated research prereq for tank traps to trench warfare
   - make long bow
     - removed smithies, anvil, crafting spot from users, added workbench (to match other MO bows)
 - Weapons
-  - make compound bow
+  - compound bow
     - renamed hunter's compound bow (name dupe w/ Rimsenal Augmented Vanilla)
+  - hatchet
+    - renamed primitive hatchet (name dupe w/ MO)
 make molotov cocktails require 2 ReBuild Glass<br/>
 VWE make crossbow prereq moved to MO crossbow<br/>
 VWE make arbalest prereq moved to MO arbalest<br/>
