@@ -27,6 +27,7 @@ Figure out how to make certain events cooperate with ignorance is bliss:
 - hostile faction travellers
 - poachers
 - loggers
+- battlefield
 - others
 
 ### To-do
