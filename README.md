@@ -76,6 +76,36 @@ Figure out how to make certain events cooperate with ignorance is bliss:
   - animal sleeping box, giant animal sleeping box - Bedding/RIMsQOL3
 - Globe
   - Childhood
+- Service Hatch
+  - General
+- Textile Rack
+  - Resource
+- Ice Cellar
+  - Resource
+- MO Adaptive Storages
+  - timber (1x1), (1x2), (2x2) - Resource/Ferny_Timbers
+  - bricks (1x1), (1x2), (2x2) - Resource/Ferny_Bricks
+  - ingots (1x1), (1x2), (2x2) - Resource/RIMsQOL1
+  - barrels (component, grape, log, ore, textile) - Resource/PatchPark_Barrels
+  - open crates (1x2), (2x2) - Resource/Ferny_Crates
+  - linen sack - Resource
+  - melee racks - Gear/RIMsQOL1
+  - ranged racks - Gear/RIMsQOL2
+  - rustic shelves (small, 1x1, 1x2, large) - General/RIMsQOL1
+  - rustic cupboard - General
+  - market stalls - More(2nd?)
+  - cart - More(2nd?)
+- Meat Drying Racks (1x2, 2x2)
+  - Kitchen/Ferny_MeatDryingRacks
+- Tanning Racks (leather, rawhide)
+  - Processsing/RIMsQOL1
+ 
+
+
+
+
+
+
 ### Mod tweaks
 
 ## Core:
@@ -249,6 +279,7 @@ Kit's Early Gunsmithing requires MO Gunpowder<br/>
 Move Gate (1x2) from Medieval Furniture to Medieval Architecture <br/>
 Re-condense Log Tables (1x2, 1x3, 1x4, 2x4) into Ferny_LogTables dropdown  (alternatively find out what broke it and patch that)<br/>
 Scorpio/Scorpio Bolts renamed Light Ballista/Light Ballista Bolts (name dupe w/ VFE:C) <br/>
+MO boots/gloves renamed to leather boots/gloves (to eliminate name dupe w/ VAE)<br/>
 MO padded armor renamed to padded leather armor (name dupe w/ VFE:M2)<br/>
 MO Crossboow requires research Archery<br/>
 MO Gunpowder requires research Kit's Blackpowder<br/>
@@ -259,7 +290,9 @@ research prereq for tudor wall changed to medieval architecture<br/>
 research prereq for royal column changed to medieval architecture<br/>
 - Building
   - butcher block
-    - add to ButcherTable dropdown
+    - add to KobeRiddle_ButcheringBenches dropdown
+  - stonecutter's block
+    - add to KobeRiddle_StonecuttingTables dropdown
   - castle wall/castle wall embrasure
     - changed prereq to medieval architecture
 - Recipe
@@ -275,13 +308,7 @@ research prereq for royal column changed to medieval architecture<br/>
 - Weapon
   - crossbow
     - renamed light crossbow (name dupe w/ VFM:M2) 
- 
 
-
-## Medieval Overhaul: Adaptive Storage
-Allow Timber (1x1, 1x2, 2x2) to be made out of any woody material <br/>
-Move Gate (1x2) from Medieval Furniture to Medieval Architecture
-MO boots/gloves renamed to leather boots/gloves (to eliminate name dupe w/ VAE)<br/>
 
 ## Medieval Overhaul: House Sanguine
 Sanguine kite shield added smithy prereq<br/>
@@ -297,6 +324,11 @@ add wine as prereq for make blood grape must <br/>
 
 ## More Creepjoiners
 **Consolidate ranked bioferrite & voidmetal legs into the normal version, and remove (normal tag)... update all relevant Defs (install, make, etc)**
+
+## Multifloors
+- Buildings
+  - vertical pipe connector
+    - change research prereq to electricity
 
 ## Oracle's Miscellania
 Remove neolithic tags from Kyoshi warrior armor (and make match plate armor I guess)
