@@ -99,6 +99,12 @@ Figure out how to make certain events cooperate with ignorance is bliss:
   - Kitchen/Ferny_MeatDryingRacks
 - Tanning Racks (leather, rawhide)
   - Processsing/RIMsQOL1
+- Seed Packing
+  - Spot, Bench (Farming, KobeRiddle_SeedPackingBench)
+- Research Spot
+  - Research
+- Book Scribe Table
+  - Processing
  
 
 
