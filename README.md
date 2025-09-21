@@ -278,6 +278,15 @@ Kit's Early Gunsmithing requires MO Gunpowder<br/>
     - Increase stack size to 150 to match smokeleaf joint
 
 ## Medieval Tailor Continued
+- Recipe
+  - make peasant shoes
+    - remove smithys as users
+  - make town boots
+    - remove smithys as users
+  - make travel boots
+    - remove smithys as users
+  - make noble boots
+    - remove smithys as users
 - Apparel
 
 
