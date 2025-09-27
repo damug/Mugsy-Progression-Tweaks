@@ -105,6 +105,8 @@ Figure out how to make certain events cooperate with ignorance is bliss:
   - Research
 - Book Scribe Table
   - Processing
+- Water Gathering Spot
+  - Locations
  
 
 
