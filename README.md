@@ -103,8 +103,6 @@ Figure out how to make certain events cooperate with ignorance is bliss:
   - Spot, Bench (Farming, KobeRiddle_SeedPackingBench)
 - Research Spot
   - Research
-- Book Scribe Table
-  - Processing
 - Water Gathering Spot
   - Locations
  
