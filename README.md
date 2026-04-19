@@ -1,6 +1,11 @@
 # Cherry Picker
 ## [sbz] storage
 Meat Hook
+
+## to do -/ new ritual rewards /or/ new ritual reward
+random quest
+call orbital tader/invite trader
+
   
 # Research Tweaks
 ## Core
