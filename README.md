@@ -40,7 +40,8 @@ Ladder
 # Architect Menu Tweaks
 ## Core
 butcher spot -> removed from butcher bench dropdown
-fueld stove -> removed from stoves dropdown
+crafting spot -> removed from crafting bench dropdown
+fueled stove -> removed from stoves dropdown
 
 ## Anomaly
 electric bioferrite shaper -> Monolith
