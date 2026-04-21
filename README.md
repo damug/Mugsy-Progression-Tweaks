@@ -37,6 +37,9 @@ stew pot -> stews + Medieval Furniture
 Gas-powered stew pot -> stews + gas logistics
 Chemfuel stew pot -> stews + biofuel refing
 
+## VFE:C Addon - Double Tents
+double tent -> complex furniture
+
 ## Vehicle Map Framework
 Cargo container
 Ladder
@@ -56,6 +59,13 @@ cultivation pod -> Mechanoids
 
 ## Industrial Hardleather and Concrete
 electric leather boilpot -> Processing/RIMSqol1
+
+## Medieval Extras (Continued
+log gate frame -> Doors/RIMSqol1
+log gate frame large -> Doors/RIMSqol1
+brick gate frame -> Doors/RIMSqol2
+brick gate frame large -> Doors/RIMSqol2
+
 
 ## Medieval Overhaul
 book scribe table -> Crafting
