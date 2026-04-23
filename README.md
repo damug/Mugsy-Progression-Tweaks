@@ -20,13 +20,18 @@ Grill -> basic cooking + searing
 ## Medieval Overhaul
 Book scribe table -> crafting facilities + writing
 jewelery bench -> crafting facilities + noble apparel
-Paper press -> crafting facilities + writing
+paper press -> crafting facilities + writing
+mending bench research -> tailoring bench/medieval, using as additional prereq for simple mending hand and electric benches
 
 ## Medieval Overhaul Patches
 soup pot -> basic cooking
 
 ## ReBuild: Doors and Corneers
 Wooden floor AC unit
+
+## Simple Mending
+hand tailoring bench -> add mending bench research prereq
+electric tailoring bench -> add mending bench research prereq
 
 ## Vanilla Cooking Expanded
 fueled grill -> basic cooking + searing
@@ -71,6 +76,7 @@ brick gate frame large -> Doors/RIMSqol2
 book scribe table -> Crafting
 paper press -> Processing
 stew pot -> Kitchen/RIMSqol1
+mending bench -> removed in favor of simple mending hand tailor bench
 
 
 ## Medieval Overhaul Patches
