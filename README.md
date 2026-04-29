@@ -12,6 +12,7 @@ call orbital tader/invite trader
 Door -> construction
 Wall -> construction
 
+
 ## Appliance Expanded
 Chemfuel deep fryer -> food processing + biofuel refining
 Chemfuel pot -> basic cooking + biofuel refining
@@ -25,6 +26,9 @@ mending bench research -> tailoring bench/medieval, using as additional prereq f
 
 ## Medieval Overhaul Patches
 soup pot -> basic cooking
+
+## Medieval Overhaul: Barbarians
+barbarians Research -> smithing added as prereq
 
 ## ReBuild: Doors and Corneers
 Wooden floor AC unit
@@ -55,6 +59,7 @@ Ladder
 butcher spot -> removed from butcher bench dropdown
 crafting spot -> removed from crafting bench dropdown
 fueled stove -> removed from stoves dropdown
+fueled smelter -> remove from smelters dropdown
 
 ## Anomaly
 electric bioferrite shaper -> Monolith
@@ -81,6 +86,7 @@ mending bench -> removed in favor of simple mending hand tailor bench
 
 ## Medieval Overhaul Patches
 soup pot -> Kitchen/KobeRiddle_SoupPots
+dried hay pile -> Resource/pile (1x2)
 
 ## Progression: Agriculture
 seed packing spot -> removed from KobeRiddle_SeedPackingBenches
