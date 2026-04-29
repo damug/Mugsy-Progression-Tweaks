@@ -11,24 +11,39 @@ call orbital tader/invite trader
 ## Core
 Door -> construction
 Wall -> construction
+geothermal genrator research -> added electricty research prereq, renamed to renewable energy
 
+## Adaptive Primitive Storage
+wood/stone cellar -> disabled
+storage pit -> disabled
 
 ## Appliance Expanded
 Chemfuel deep fryer -> food processing + biofuel refining
 Chemfuel pot -> basic cooking + biofuel refining
 Grill -> basic cooking + searing
 
+## Generally More Research
+advanced wind turbine -> add advanced power sources as prereq
+advanced solar generator -> add advanced power sources as prereq
+advanced watermill generator -> add advanced power sources as prereq
+advanced geothermal generator -> add advanced power sources as prereq
+
 ## Medieval Overhaul
 Book scribe table -> crafting facilities + writing
 jewelery bench -> crafting facilities + noble apparel
 paper press -> crafting facilities + writing
+ice cellar -> ice management
 mending bench research -> tailoring bench/medieval, using as additional prereq for simple mending hand and electric benches
+
 
 ## Medieval Overhaul Patches
 soup pot -> basic cooking
 
 ## Medieval Overhaul: Barbarians
 barbarians Research -> smithing added as prereq
+
+## Mythic Ages: Megafauna Bestiary
+verdant bow -> hunting bow added as prereq, removed smithy users, added workbench/crafting bench
 
 ## ReBuild: Doors and Corneers
 Wooden floor AC unit
@@ -39,12 +54,16 @@ electric tailoring bench -> add mending bench research prereq
 
 ## Vanilla Cooking Expanded
 fueled grill -> basic cooking + searing
+food condiments research -> add intermediate cooking research as prereq
 
 ## Vanilla Cooking Expanded - Stews / VCE - Electric/Chemfuel Stew Pot
 electric stew pot -> stews + electricity
 stew pot -> stews + Medieval Furniture
 Gas-powered stew pot -> stews + gas logistics
 Chemfuel stew pot -> stews + biofuel refing
+
+## Vanilla Furniture Expanded - Power
+advanced power sources -> add geothermal generator to research prereqs
 
 ## VFE:C Addon - Double Tents
 double tent -> complex furniture
