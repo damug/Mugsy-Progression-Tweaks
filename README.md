@@ -67,6 +67,12 @@ electric bioferrite shaper -> Monolith
 ## [AV] Mechtech
 cultivation pod -> Mechanoids
 
+## Adaptive Primitive Storage
+small log pile spot -> removed in favor of MO:Adaptive Storage log spot
+large log pile spot -> removed in favor of MO:Adaptive Storage log spot
+covered pot
+uncovered pot
+
 ## Industrial Hardleather and Concrete
 electric leather boilpot -> Processing/RIMSqol1
 
@@ -82,14 +88,40 @@ book scribe table -> Crafting
 paper press -> Processing
 stew pot -> Kitchen/RIMSqol1
 mending bench -> removed in favor of simple mending hand tailor bench
+log display bundle/stack/stockpile -> removed in favor of MO: Adaptive Storage Variant
+timber display bundle/stack/stockpile -> removed in favor of MO: Adaptive Storage Variant
+brick display bundle/stack/stockpile -> removed in favor of MO: Adaptive Storage Variant
+ingot display pile/stack/stockpile -> removed in favor of MO: Adaptive Storage Variant
 
+## Medieval Overhaul: Adaptive Storage
+brick bundle -> Resource/Ferny_Bricks
+brick stack -> Resource/Ferny_Bricks
+brick stockpile -> Resource/Ferny_Bricks
+log bundle -> Resource/RIMSqol2
+log stack -> Resource/RIMSqol2
+log stockpile -> Resource/RIMSqol2
+timber bundle -> Resource/Ferny_Timber
+timber stack -> Resource/Ferny_Timber
+timber stockpile -> Resource/Ferny_Timber
+ingot pile -> Resource/ingot stack (1x1)
+ingot stack -> Resource/ingot stack (1x1)
+ingot stockpile -> Resource/ingot stack (1x1)
 
 ## Medieval Overhaul Patches
 soup pot -> Kitchen/KobeRiddle_SoupPots
 dried hay pile -> Resource/pile (1x2)
 
+## Medical Cabinet
+simple medical cabinet -> Resource/RIMSqol1
+powered medical cabinet -> Resource/RIMSqol1
+
+
 ## Progression: Agriculture
 seed packing spot -> removed from KobeRiddle_SeedPackingBenches
+
+## Reel's Expanded Storage
+medical cabinet -> Resource/RIMSqol1
+meat hook -> removed in favor of [sbz] neat storage variant
 
 ## Reese's Anomaly Accessibility
 fueled bioferrite shaper -> Monolith
