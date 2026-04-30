@@ -1,26 +1,36 @@
+# Destructive fixes...
+## Rustic Meal Retexture
+delete simple meal textures for meat and veg simple meals <br/>
+
 # Cherry Picker
 ## [sbz] storage
-Meat Hook
+meat hook <br/>
+
+## Big and Small - Genes & More
+large meals, all of them <br/>
+
+## Vanilla Psycasts Expanded
+psytrainers, all of them <br/>
 
 ## to do -/ new ritual rewards /or/ new ritual reward
-random quest
-call orbital tader/invite trader
+random quest <br/>
+call orbital tader/invite trader <br/>
 
   
 # Research Tweaks
 ## Core
-Door -> construction
-Wall -> construction
-geothermal genrator research -> added electricty research prereq, renamed to renewable energy
+Door -> construction <br/>
+Wall -> construction <br/>
+geothermal genrator research -> added electricty research prereq, renamed to renewable energy <br/>
 
 ## Adaptive Primitive Storage
-wood/stone cellar -> disabled
-storage pit -> disabled
+wood/stone cellar -> disabled <br/>
+storage pit -> disabled <br/>
 
 ## Appliance Expanded
-Chemfuel deep fryer -> food processing + biofuel refining
-Chemfuel pot -> basic cooking + biofuel refining
-Grill -> basic cooking + searing
+Chemfuel deep fryer -> food processing + biofuel refining <br/>
+Chemfuel pot -> basic cooking + biofuel refining <br/>
+Grill -> basic cooking + searing <br/>
 
 ## Generally More Research
 advanced wind turbine -> add advanced power sources as prereq
