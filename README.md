@@ -1,6 +1,6 @@
 # Destructive fixes...
-## Rustic Meal Retexture
-delete simple meal textures for meat and veg simple meals <br/>
+## Cyanobot's Genes
+disable "picky meal stacking"rimwo
 
 # Cherry Picker
 ## [sbz] storage
