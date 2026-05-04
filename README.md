@@ -10,6 +10,9 @@ meat hook <br/>
 Prosthetic hand/foot in favor of Medical System Expansion 2 <br/>
 Bionic kidney/liver/lung in favor of Integrated Implants <br/>
 
+## EPOE
+Advanced bionic eye hediff... because nothing gives it?
+
 ## Big and Small - Genes & More
 large meals, all of them <br/>
 
