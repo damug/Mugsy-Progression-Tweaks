@@ -1,10 +1,14 @@
 # Destructive fixes...
 ## Cyanobot's Genes
-disable "picky meal stacking"rimwo
+disable "picky meal stacking"
 
 # Cherry Picker
 ## [sbz] storage
 meat hook <br/>
+
+## [FSF] Advanced Bionics Expansion
+Prosthetic hand/foot in favor of Medical System Expansion 2 <br/>
+Bionic kidney/liver/lung in favor of Integrated Implants <br/>
 
 ## Big and Small - Genes & More
 large meals, all of them <br/>
